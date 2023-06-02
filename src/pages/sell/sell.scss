@@ -1,0 +1,95 @@
+.sell {
+  display: flex;
+  justify-content: center;
+  height: 200vh;
+  &__container {
+    margin: 0 15vw;
+    width: 100%;
+    height: 100vh;
+    margin-bottom: 20vh;
+  }
+  &__content {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  &__content > div {
+    flex: 50%; /* or - flex: 0 50% - or - flex-basis: 50% - */
+    /*demo*/
+    margin-bottom: 10px;
+  }
+  &__item {
+    background-color: #282633;
+    padding: 5px 50px;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    transition: all 0.16s;
+  }
+  &__txt-item {
+    color: #d4d4d4;
+    width: 94%;
+    height: 100px;
+    padding: 5px;
+    font-size: 14px;
+    outline: none;
+    resize: none;
+    border: none;
+    background-color: #312f3d;
+    padding: 10px;
+    border-radius: 15px;
+  }
+  &__inp {
+    &-content {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 60.5%;
+      gap: 10px;
+    }
+    &-item {
+      border: none;
+      border-radius: 15px;
+      height: 15px;
+      font-family: 'Nunito';
+      font-size: 18px;
+      background-color: #312f3d;
+      color: rgb(223, 223, 223);
+      &:focus {
+        outline: 1px solid #c4c4c4b0;
+      }
+    }
+  }
+  &__btn {
+    height: 5vh;
+    font-weight: 700;
+    font-size: 17px;
+    padding: 15px 40px;
+    border-radius: 20px;
+    background-color: rgba(89, 0, 255, 0.945);
+    color: #ffffff;
+    border: none;
+    box-shadow: 0px 1px 3px 3px rgba($color: #666666, $alpha: 0.2);
+    cursor: pointer;
+    transition: all 0.14s;
+    &:hover {
+      background-color: rgb(99, 27, 182);
+      border-radius: 20px;
+      transform: scale(1.04);
+    }
+  }
+  .react-select {
+    &__menu {
+      background-color: #312f3d;
+      color: #d4d4d4;
+    }
+    &__option {
+      &:hover {
+        background-color: #37095c;
+      }
+    }
+  }
+}
+.background {
+  background-color: #1c1a24;
+}

@@ -1,0 +1,365 @@
+{
+  "users": [
+    {
+      "email": "test@gmail.com",
+      "password": "$2a$10$PX3.CRzHlzHgNztbCVHAHue47BiB2E.X0NHN4L7PZgin/vFS32dP6",
+      "login": "svyatoslavvv",
+      "phone": "(+380)66-394-06-33",
+      "date": "16.04.2023, 16:44",
+      "orders": [],
+      "id": 1,
+      "avatar": "https://st.depositphotos.com/1400069/4761/i/450/depositphotos_47618707-stock-photo-girl-profile.jpg",
+      "confirm_password": "",
+      "aboutme": "Многие думают, что Lorem Ipsum - взятый с потолка псевдо-латинский набор слов, но это не совсем так. Его корни уходят в один фрагмент классической латыни 45 года н.э., то есть более двух тысячелетий назад. Ричард МакКлинток, профессор латыни из колледжа Hampden-Sydney, штат Вирджиния, взял одно из самых странных слов в Lorem Ipsum"
+    },
+    {
+      "email": "test2@gmail.com",
+      "password": "$2a$10$kKcXNG1QwO5Q8/PfiksX/.3e1xHBG2MrMSoWoclTiYEYuW.FgyYOy",
+      "login": "account2",
+      "phone": "(+380)99-336-29-85",
+      "date": "",
+      "orders": [],
+      "id": 2,
+      "avatar": "https://e1.pxfuel.com/desktop-wallpaper/903/679/desktop-wallpaper-97-aesthetic-best-profile-pic-for-instagram-for-boy-instagram-dp-boys.jpg"
+    },
+    {
+      "email": "test3@gmail.com",
+      "password": "$2a$10$kYT6j/UJi5247BVIidSOweZ6LPktdz.uSQOKfmzjSW3bt9KM8vDlq",
+      "login": "test",
+      "phone": "(+380)55-435-46-54",
+      "confirm_password": "12345Qq",
+      "date": "01.06.2023, 17:07",
+      "orders": [],
+      "id": 3
+    }
+  ],
+  "items": [
+    {
+      "id": 0,
+      "imageUrl": "https://cdn2.riastatic.com/photosnew/auto/photo/bmw_x5__493958477hd.webp",
+      "title": "BMW X5",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "year": "2008",
+      "type": "Внедорожник",
+      "doors": 5,
+      "places": 5,
+      "engine": 3,
+      "driveUnit": "Полный",
+      "color": "Черный",
+      "transmission": "Типтроник",
+      "price": "15000",
+      "mileage": "276000",
+      "city": "Киев",
+      "rating": 8,
+      "brand": "BMW",
+      "creator": {
+        "email": "test2@gmail.com",
+        "password": "$2a$10$kKcXNG1QwO5Q8/PfiksX/.3e1xHBG2MrMSoWoclTiYEYuW.FgyYOy",
+        "login": "account2",
+        "phone": "(+380)99-336-29-85",
+        "date": "",
+        "orders": [],
+        "id": 2,
+        "avatar": "https://e1.pxfuel.com/desktop-wallpaper/903/679/desktop-wallpaper-97-aesthetic-best-profile-pic-for-instagram-for-boy-instagram-dp-boys.jpg"
+      }
+    },
+    {
+      "id": 1,
+      "imageUrl": "https://cdn1.riastatic.com/photosnew/auto/photo/audi_a7-sportback__492885811hd.webp",
+      "title": "Audi A7 Sportback",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "year": "2013",
+      "type": "Лифтбек",
+      "doors": 5,
+      "places": 5,
+      "engine": 2.8,
+      "driveUnit": "Полный",
+      "color": "Черный",
+      "transmission": "Автомат",
+      "price": "16500",
+      "mileage": "157000",
+      "city": "Одесса",
+      "rating": 2,
+      "brand": "Audi",
+      "creator": {
+        "email": "test2@gmail.com",
+        "password": "$2a$10$kKcXNG1QwO5Q8/PfiksX/.3e1xHBG2MrMSoWoclTiYEYuW.FgyYOy",
+        "login": "account2",
+        "phone": "(+380)99-336-29-85",
+        "date": "",
+        "orders": [],
+        "id": 2,
+        "avatar": "https://e1.pxfuel.com/desktop-wallpaper/903/679/desktop-wallpaper-97-aesthetic-best-profile-pic-for-instagram-for-boy-instagram-dp-boys.jpg"
+      }
+    },
+    {
+      "description": "",
+      "imageUrl": "https://cdn2.riastatic.com/photosnew/auto/photo/bmw_xm__498237547hd.webp",
+      "title": "BMW XM",
+      "brand": "BMW",
+      "city": "Запорожье",
+      "year": "2023",
+      "type": "Кроссовер",
+      "engine": "3",
+      "driveUnit": "Полный",
+      "color": "",
+      "doors": "4",
+      "places": "5",
+      "mileage": "20000",
+      "price": "77777",
+      "creator": {
+        "email": "test@gmail.com",
+        "password": "$2a$10$PX3.CRzHlzHgNztbCVHAHue47BiB2E.X0NHN4L7PZgin/vFS32dP6",
+        "login": "svyatoslavvv",
+        "phone": "(+380)66-394-06-33",
+        "date": "16.04.2023, 16:44",
+        "orders": [],
+        "id": 1,
+        "avatar": "https://st.depositphotos.com/1400069/4761/i/450/depositphotos_47618707-stock-photo-girl-profile.jpg",
+        "confirm_password": "",
+        "aboutme": "Многие думают, что Lorem Ipsum - взятый с потолка псевдо-латинский набор слов, но это не совсем так. Его корни уходят в один фрагмент классической латыни 45 года н.э., то есть более двух тысячелетий назад. Ричард МакКлинток, профессор латыни из колледжа Hampden-Sydney, штат Вирджиния, взял одно из самых странных слов в Lorem Ipsum"
+      },
+      "comment": [
+        {
+          "id": "c66d7639-991e-4e2e-9e13-99d193dc731e",
+          "text": "ниче",
+          "date": "02.06.2023, 21:15",
+          "feedback": {
+            "id": "c5e3c83b-061c-4a2f-908f-37094bb6ad7c",
+            "text": "че",
+            "date": "01.06.2023, 00:28",
+            "feedback": {
+              "id": "13bc67cf-2b2e-4a5c-8d8d-775e96fb623e",
+              "text": "какой-нибудь ответ",
+              "date": "01.06.2023, 00:28",
+              "feedback": {
+                "id": "ba3a1305-0ac6-4b9a-8929-3f293bd330a9",
+                "text": "какой-нибудь текст",
+                "date": "01.06.2023, 00:28",
+                "creator": {
+                  "email": "test2@gmail.com",
+                  "password": "$2a$10$kKcXNG1QwO5Q8/PfiksX/.3e1xHBG2MrMSoWoclTiYEYuW.FgyYOy",
+                  "login": "account2",
+                  "phone": "(+380)99-336-29-85",
+                  "date": "",
+                  "orders": [],
+                  "id": 2,
+                  "avatar": "https://e1.pxfuel.com/desktop-wallpaper/903/679/desktop-wallpaper-97-aesthetic-best-profile-pic-for-instagram-for-boy-instagram-dp-boys.jpg"
+                }
+              },
+              "creator": {
+                "email": "test2@gmail.com",
+                "password": "$2a$10$kKcXNG1QwO5Q8/PfiksX/.3e1xHBG2MrMSoWoclTiYEYuW.FgyYOy",
+                "login": "account2",
+                "phone": "(+380)99-336-29-85",
+                "date": "",
+                "orders": [],
+                "id": 2,
+                "avatar": "https://e1.pxfuel.com/desktop-wallpaper/903/679/desktop-wallpaper-97-aesthetic-best-profile-pic-for-instagram-for-boy-instagram-dp-boys.jpg"
+              }
+            },
+            "creator": {
+              "email": "test2@gmail.com",
+              "password": "$2a$10$kKcXNG1QwO5Q8/PfiksX/.3e1xHBG2MrMSoWoclTiYEYuW.FgyYOy",
+              "login": "account2",
+              "phone": "(+380)99-336-29-85",
+              "date": "",
+              "orders": [],
+              "id": 2,
+              "avatar": "https://e1.pxfuel.com/desktop-wallpaper/903/679/desktop-wallpaper-97-aesthetic-best-profile-pic-for-instagram-for-boy-instagram-dp-boys.jpg"
+            }
+          },
+          "creator": {
+            "email": "test@gmail.com",
+            "login": "svyatoslavvv",
+            "phone": "(+380)66-394-06-33",
+            "date": "16.04.2023, 16:44",
+            "orders": [],
+            "id": 1,
+            "avatar": "https://st.depositphotos.com/1400069/4761/i/450/depositphotos_47618707-stock-photo-girl-profile.jpg",
+            "confirm_password": "",
+            "aboutme": "Многие думают, что Lorem Ipsum - взятый с потолка псевдо-латинский набор слов, но это не совсем так. Его корни уходят в один фрагмент классической латыни 45 года н.э., то есть более двух тысячелетий назад. Ричард МакКлинток, профессор латыни из колледжа Hampden-Sydney, штат Вирджиния, взял одно из самых странных слов в Lorem Ipsum"
+          }
+        },
+        {
+          "id": "c5e3c83b-061c-4a2f-908f-37094bb6ad7c",
+          "text": "че",
+          "date": "01.06.2023, 00:28",
+          "feedback": {
+            "id": "13bc67cf-2b2e-4a5c-8d8d-775e96fb623e",
+            "text": "какой-нибудь ответ",
+            "date": "01.06.2023, 00:28",
+            "feedback": {
+              "id": "ba3a1305-0ac6-4b9a-8929-3f293bd330a9",
+              "text": "какой-нибудь текст",
+              "date": "01.06.2023, 00:28",
+              "creator": {
+                "email": "test2@gmail.com",
+                "password": "$2a$10$kKcXNG1QwO5Q8/PfiksX/.3e1xHBG2MrMSoWoclTiYEYuW.FgyYOy",
+                "login": "account2",
+                "phone": "(+380)99-336-29-85",
+                "date": "",
+                "orders": [],
+                "id": 2,
+                "avatar": "https://e1.pxfuel.com/desktop-wallpaper/903/679/desktop-wallpaper-97-aesthetic-best-profile-pic-for-instagram-for-boy-instagram-dp-boys.jpg"
+              }
+            },
+            "creator": {
+              "email": "test2@gmail.com",
+              "password": "$2a$10$kKcXNG1QwO5Q8/PfiksX/.3e1xHBG2MrMSoWoclTiYEYuW.FgyYOy",
+              "login": "account2",
+              "phone": "(+380)99-336-29-85",
+              "date": "",
+              "orders": [],
+              "id": 2,
+              "avatar": "https://e1.pxfuel.com/desktop-wallpaper/903/679/desktop-wallpaper-97-aesthetic-best-profile-pic-for-instagram-for-boy-instagram-dp-boys.jpg"
+            }
+          },
+          "creator": {
+            "email": "test2@gmail.com",
+            "password": "$2a$10$kKcXNG1QwO5Q8/PfiksX/.3e1xHBG2MrMSoWoclTiYEYuW.FgyYOy",
+            "login": "account2",
+            "phone": "(+380)99-336-29-85",
+            "date": "",
+            "orders": [],
+            "id": 2,
+            "avatar": "https://e1.pxfuel.com/desktop-wallpaper/903/679/desktop-wallpaper-97-aesthetic-best-profile-pic-for-instagram-for-boy-instagram-dp-boys.jpg"
+          }
+        },
+        {
+          "id": "13bc67cf-2b2e-4a5c-8d8d-775e96fb623e",
+          "text": "какой-нибудь ответ",
+          "date": "01.06.2023, 00:28",
+          "feedback": {
+            "id": "ba3a1305-0ac6-4b9a-8929-3f293bd330a9",
+            "text": "какой-нибудь текст",
+            "date": "01.06.2023, 00:28",
+            "creator": {
+              "email": "test2@gmail.com",
+              "password": "$2a$10$kKcXNG1QwO5Q8/PfiksX/.3e1xHBG2MrMSoWoclTiYEYuW.FgyYOy",
+              "login": "account2",
+              "phone": "(+380)99-336-29-85",
+              "date": "",
+              "orders": [],
+              "id": 2,
+              "avatar": "https://e1.pxfuel.com/desktop-wallpaper/903/679/desktop-wallpaper-97-aesthetic-best-profile-pic-for-instagram-for-boy-instagram-dp-boys.jpg"
+            }
+          },
+          "creator": {
+            "email": "test2@gmail.com",
+            "password": "$2a$10$kKcXNG1QwO5Q8/PfiksX/.3e1xHBG2MrMSoWoclTiYEYuW.FgyYOy",
+            "login": "account2",
+            "phone": "(+380)99-336-29-85",
+            "date": "",
+            "orders": [],
+            "id": 2,
+            "avatar": "https://e1.pxfuel.com/desktop-wallpaper/903/679/desktop-wallpaper-97-aesthetic-best-profile-pic-for-instagram-for-boy-instagram-dp-boys.jpg"
+          }
+        },
+        {
+          "id": "ba3a1305-0ac6-4b9a-8929-3f293bd330a9",
+          "text": "какой-нибудь текст",
+          "date": "01.06.2023, 00:28",
+          "creator": {
+            "email": "test2@gmail.com",
+            "password": "$2a$10$kKcXNG1QwO5Q8/PfiksX/.3e1xHBG2MrMSoWoclTiYEYuW.FgyYOy",
+            "login": "account2",
+            "phone": "(+380)99-336-29-85",
+            "date": "",
+            "orders": [],
+            "id": 2,
+            "avatar": "https://e1.pxfuel.com/desktop-wallpaper/903/679/desktop-wallpaper-97-aesthetic-best-profile-pic-for-instagram-for-boy-instagram-dp-boys.jpg"
+          }
+        }
+      ],
+      "id": 2
+    },
+    {
+      "description": "Вітаю! Представляю вашій увазі електромобіль Hyundai Kona Автомобіль на одному заряді виїжджає 500 км. В 2021 році замінена батарея через відзивну компанію Hyundai. Динамічне авто яке підійде не тільки для міста! Автомобіль має Преміум комплектацію. Звертайтесь та приїжджайте на тест-драйв! Це авто залишить тільки позитивні емоції у вас!",
+      "imageUrl": "https://cdn2.riastatic.com/photosnew/auto/photo/hyundai_kona-electric__492069297hd.webp",
+      "title": "Hyundai Kona Electric",
+      "brand": "Hyundai",
+      "city": "Львов",
+      "year": "2019",
+      "type": "Кроссовер",
+      "engine": "3.2",
+      "driveUnit": "Полный",
+      "color": "Бежевый",
+      "doors": "4",
+      "places": "5",
+      "transmission": "Автомат",
+      "mileage": "40000",
+      "price": "28000",
+      "creator": {
+        "email": "test3@gmail.com",
+        "login": "test",
+        "phone": "(+380)55-435-46-54",
+        "confirm_password": "12345Qq",
+        "date": "01.06.2023, 17:07",
+        "orders": [],
+        "id": 3
+      },
+      "comment": [],
+      "id": 3
+    },
+    {
+      "description": "*EXCLUSIVE*-4Matic(4x4) на адаптивній ПНЕВМОПІДВІСЦІ у САМІЙ МАКСИМАЛЬНІЙ комплектації, модельного-2018р.!*ВІДМІНИЙ стан-як ВІЗУАЛЬНИЙ так і ТЕХНІЧНИЙ!*",
+      "imageUrl": "https://cdn1.riastatic.com/photosnew/auto/photo/mercedes-benz_e-class__494786171hd.webp",
+      "title": "Mercedes-Benz E-Class",
+      "brand": "Mercedes",
+      "city": "Запорожье",
+      "year": "2018",
+      "type": "Седан",
+      "engine": "2",
+      "driveUnit": "Задний",
+      "color": "Коричневый",
+      "doors": "4",
+      "places": "5",
+      "transmission": "Типтроник",
+      "mileage": "200000",
+      "price": "37800",
+      "creator": {
+        "email": "test3@gmail.com",
+        "login": "test",
+        "phone": "(+380)55-435-46-54",
+        "confirm_password": "12345Qq",
+        "date": "01.06.2023, 17:07",
+        "orders": [],
+        "id": 3
+      },
+      "comment": [],
+      "id": 4
+    },
+    {
+      "description": "Официальная. Отличное состояние .В авариях участия не принимала. Стёкла все оригинальные. Техническое состояние идеальное. Самый надёжный дизельный двигатель, с малым расходом топлива. Полный привод X - DRIVE. По кузову без вмятин, без царапин. Покрыт керамикой H9. Салон в состояние нового. Нет никаких ошибок и нареканий. Хорошая качественная резина. Все ключи. Вложений вообще не требует.",
+      "imageUrl": "https://cdn3.riastatic.com/photosnew/auto/photo/bmw_5-series__496319413hd.webp",
+      "title": "BMW 5 Series",
+      "brand": "BMW",
+      "city": "Херсон",
+      "year": "2016",
+      "type": "Седан",
+      "engine": "2.8",
+      "driveUnit": "Задний",
+      "color": "Черный",
+      "doors": "4",
+      "places": "5",
+      "transmission": "Автомат",
+      "mileage": "18100",
+      "price": "16500",
+      "creator": {
+        "email": "test@gmail.com",
+        "password": "$2a$10$PX3.CRzHlzHgNztbCVHAHue47BiB2E.X0NHN4L7PZgin/vFS32dP6",
+        "login": "svyatoslavvv",
+        "phone": "(+380)66-394-06-33",
+        "date": "16.04.2023, 16:44",
+        "orders": [],
+        "id": 1,
+        "avatar": "https://st.depositphotos.com/1400069/4761/i/450/depositphotos_47618707-stock-photo-girl-profile.jpg",
+        "confirm_password": "",
+        "aboutme": "Многие думают, что Lorem Ipsum - взятый с потолка псевдо-латинский набор слов, но это не совсем так. Его корни уходят в один фрагмент классической латыни 45 года н.э., то есть более двух тысячелетий назад. Ричард МакКлинток, профессор латыни из колледжа Hampden-Sydney, штат Вирджиния, взял одно из самых странных слов в Lorem Ipsum"
+      },
+      "comment": [],
+      "id": 5
+    }
+  ]
+}

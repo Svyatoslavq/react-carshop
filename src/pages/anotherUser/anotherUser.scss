@@ -1,0 +1,29 @@
+.user {
+  &__container {
+    margin: 0 15vw;
+  }
+  &__info{
+    display: flex;
+  }
+  &__charact{
+    margin-left: 20px;
+    h2{
+      color: aqua;
+    }
+    span{
+      margin-left: 10px;
+      color: #ffffff;
+    }
+    p{
+      max-width: 40vw;
+    }
+  }
+  &__avatar{
+    margin-top: 20px;
+    background-size: cover;
+    border-radius: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: all .14s;
+  }
+}
